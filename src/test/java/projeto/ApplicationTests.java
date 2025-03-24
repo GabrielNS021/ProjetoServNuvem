@@ -1,10 +1,10 @@
-package spring_proj_servNuvem.spring_proj_servNuvem;
+package projeto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringProjServNuvemApplicationTests {
+class AplicationTests {
 
 	@Test
 	void contextLoads() {
